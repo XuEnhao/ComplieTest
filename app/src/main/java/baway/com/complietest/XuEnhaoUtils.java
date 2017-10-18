@@ -7,7 +7,7 @@ import android.util.Log;
  */
 
 public class XuEnhaoUtils {
-    private static void show(){
+    public static void show(){
         Log.d("Utils", "show: ");
     }
 }
